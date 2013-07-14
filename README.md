@@ -1,8 +1,10 @@
 experiments
 ===========
-
-experiments with git
+Experimentovani s moznostmi gitu.
 
 update
 
 next update
+
+
+By Petr iirasek
