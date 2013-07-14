@@ -5,4 +5,8 @@ experiments with git
 
 update
 
-next update
+next updat
+
+updaty team A
+---------------
+-pridani souboru, prepsani souboru new
